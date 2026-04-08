@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="roundrect">
+      <rect width="200" height="200" rx="40" ry="40"/>
+    </clipPath>
+  </defs>
+  <image href="https://avatars.githubusercontent.com/u/67595261?s=200&amp;v=4" width="200" height="200" clip-path="url(#roundrect)"/>
+</svg>
