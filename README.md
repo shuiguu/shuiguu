@@ -22,6 +22,8 @@
   <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo" />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/67595261?s=200&v=4" height="40" alt="typst logo" />
 </div>
 
 **Frameworks**
@@ -42,14 +44,29 @@
   <img src="https://skillicons.dev/icons?i=rails" height="40" alt="rails logo" />
 </div>
 
-**Tools**
+**Infra / DevOps**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" />
+</div>
+
+
+**Tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="after effects logo" />
 </div>
