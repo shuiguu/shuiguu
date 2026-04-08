@@ -59,6 +59,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=workers" height="40" alt="workers logo" />
   <img width="12" />
+  <img src="./.assets/googleappsscript.svg" height="40" alt="googleappscript logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
