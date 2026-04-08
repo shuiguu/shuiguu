@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm mizu 👋</h1>
 
-<p align="left">関西の学生です。Web, CV, DS など幅広い興味があります。</p>
+<p align="left">関西の学生です。Web, 組版, メディア生成など幅広い興味があります。</p>
 
 <h2 align="left">Tech Stack</h2>
 
