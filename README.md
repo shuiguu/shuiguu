@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm mizu 👋</h1>
+<h1 align="left">Profile</h1>
 
 <p align="left">関西の学生です。Web, 組版, デザイン, メディア生成など幅広い興味があります。</p>
 
