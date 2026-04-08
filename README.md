@@ -69,8 +69,6 @@
 **Tools**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="obsidian logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="illustrator logo" />
