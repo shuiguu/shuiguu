@@ -1,9 +1,3 @@
-<h1 align="left">Profile</h1>
-
-<p align="left">関西の学生です。Web, 組版, デザイン, メディアなど幅広い興味があります。</p>
-
-<h2 align="left">Tech Stack</h2>
-
 **Languages**
 
 <div align="left">
